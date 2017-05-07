@@ -1,0 +1,7 @@
+Git tutorial
+
+In order to clone repository from github into local machine:
+Ans: git clone https://github.com/bittechusa/BTC_All.git(your git repository URL)
+
+In order to push some code into repository:
+copy the file u looking for
