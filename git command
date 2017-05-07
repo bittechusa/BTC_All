@@ -5,3 +5,9 @@ Ans: git clone https://github.com/bittechusa/BTC_All.git(your git repository URL
 
 In order to push some code into repository:
 copy the file u looking for
+
+in git bash or terminal:
+git add -A
+git commit -m "any comment"
+git pull origin master
+git push origin master
