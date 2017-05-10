@@ -4,7 +4,7 @@ public class C
 {
 	static void m1()
 	{
-		
+		System.out.println("hi");
 	}
 	public static  void m2()
 	{
